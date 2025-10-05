@@ -111,10 +111,18 @@ shop.html
 
 ```
 # OUTPUT
-![alt text](<Screenshot 2025-10-05 222643.png>)
-![alt text](IMG-20251005-WA0028.jpg)
-![alt text](IMG-20251005-WA0029.jpg)
-![alt text](IMG-20251005-WA0032.jpg)
-![alt text](IMG-20251005-WA0032-1.jpg)
+![IMG-20251005-WA0028](https://github.com/user-attachments/assets/4cbd6ff6-9d46-43e0-b6c9-dc479c739dd0)
+![IMG-20251005-WA0029](https://github.com/user-attachments/assets/fd02173a-d44d-4408-ac52-b1ccde66f9f8)
+![IMG-20251005-WA0032](https://github.com/user-attachments/assets/59c4b4eb-422a-4507-9b8a-a6f9f6f73bd4)
+![IMG-20251005-WA0033](https://github.com/user-attachments/assets/179e359a-b6ff-4bad-b89f-35d01ab6cd2c)
+![IMG-20251005-WA0034](https://github.com/user-attachments/assets/6ea9e116-ab64-4af3-a508-99b2358be4c3)
+![IMG-20251005-WA0035](https://github.com/user-attachments/assets/b423e27a-dcd6-4670-ac0c-299bbed94ff8)
+
+
+
+
+
+
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
